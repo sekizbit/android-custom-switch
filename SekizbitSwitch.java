@@ -27,6 +27,11 @@ public class SekizbitSwitch
         this.listeners.clear();
         this.listeners.add(l);
     }
+    
+    public void setSelected(int index)
+    {
+        buttons[index].setSelected(true);
+    }
 
     public void setTextLeft(String text)
     {

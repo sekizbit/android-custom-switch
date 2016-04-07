@@ -1,5 +1,5 @@
 # android-custom-switch
-Android Switch component with made by 2 Buttons and LinearLayout. Who wants to show "off text" also.
+Android Switch component with made by 2 Buttons and LinearLayout. For those who wants to show "off text" also.
 
 Deafult android switch does not have an option to show unselected button's text. 
 

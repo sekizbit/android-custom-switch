@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="sekizbit_switch_background">#294A6D</color>
+    <color name="sekizbit_switch_stroke">#294A6D</color>
+    <color name="sekizbit_switch_thumb">#ffffff</color>
+
+    <color name="sekizbit_switch_text_selected">@android:color/black</color>
+    <color name="sekizbit_switch_text_unselected">@android:color/white</color>
+
+</resources>

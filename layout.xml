@@ -1,0 +1,37 @@
+<LinearLayout
+	android:id="@+id/sekizbit_switch"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal"
+
+	android:layout_alignParentBottom="true"
+	android:layout_toLeftOf="@+id/chkOnlyFavorites"
+
+	>
+	<Button
+		android:id="@+id/sekizbit_switch_btn_left"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_marginLeft="10dp"
+		android:layout_marginTop="10dp"
+		android:layout_marginBottom="10dp"
+		android:layout_weight="1"
+		android:background="@drawable/sekizbit_selector_btn_left"
+		android:text="Left"
+		android:textSize="12dp"
+		android:textColor="@drawable/sekizbit_selector_btn_text_color"/>
+
+	<Button
+		android:id="@+id/sekizbit_switch_btn_right"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_marginRight="10dp"
+		android:layout_marginTop="10dp"
+		android:layout_marginLeft="-1dp"
+		android:layout_marginBottom="10dp"
+		android:textColor="@drawable/sekizbit_selector_btn_text_color"
+		android:text="Right"
+		android:textSize="12dp"
+		android:background="@drawable/sekizbit_selector_btn_right"
+		android:layout_weight="1"/>
+</LinearLayout>

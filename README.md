@@ -3,6 +3,9 @@ Android Switch component with made by 2 Buttons and LinearLayout. For those who 
 
 Deafult android switch does not have an option to show unselected button's text. 
 
+[Screenshot](http://imgbox.com/WdGluJGK) 
+
+
 ## usage
 
 1. Copy XML files under res/drawable to your project's res/drawable folder.

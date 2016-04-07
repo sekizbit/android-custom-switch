@@ -24,6 +24,9 @@ SekizbitSwitch mySwitch = new SekizbitSwitch(findViewById(R.id.sekizbit_switch))
                 }
             }
         });
+        
+        
+        mySwitch.setSelected(0);
 ```
 ## customization
 * You can change the colors and padding on colors.xml and dimens.xml
